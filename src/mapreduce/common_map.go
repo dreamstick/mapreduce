@@ -2,7 +2,7 @@ package mapreduce
 
 import (
 	"encoding/json"
-	"github.com1/traefik/log"
+	"log"
 	"hash/fnv"
 	"os"
 )
